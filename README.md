@@ -2,7 +2,7 @@
 
 ## O objetivo desse repo é responder as segunder perguntas conforme esse repositorio aqui: https://github.com/appcumbuca/desafios/blob/master/desafio-data.md
 
-### Obs aqui, meus mapas não apareceram no pdf e estão bem visuais no notebook.
+### Obs aqui, meus mapas não apareceram no pdf e nem notebook do repo, vi que isso é comum para os mapas folium, recomendo visualziar rodando localmente, mas também vou mandar prints para caso queira checar.
 
 # Desafio
 
